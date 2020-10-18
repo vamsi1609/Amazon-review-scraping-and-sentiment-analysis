@@ -10,7 +10,7 @@ The Case study contains 3 ipython notebooks and 3 csv files and follwing is the 
 
 3. Training_DistilBERT.ipynb is the training of BERT model on the given data. The code was implemented on kaggle. It trains and saves the weights of the model.
 
-4. Testing_the_model.ipynb uses phone_review.csv and the trained weights. Creates a review_score.csv which contains the score predicted by the trained model. 
+4. testing_the_model.ipynb uses phone_review.csv and the trained weights. Creates a review_score.csv which contains the score predicted by the trained model. 
 
 
 
