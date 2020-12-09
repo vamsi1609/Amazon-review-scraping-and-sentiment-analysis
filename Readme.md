@@ -1,6 +1,6 @@
 
 
-Hi thank you very much for showing your interest and I am grateful for your time. I have learned a lots of things after doing this excercise. 
+ 
 
 The Case study contains 3 ipython notebooks and 3 csv files and follwing is the way they are used
 
