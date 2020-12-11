@@ -2,7 +2,7 @@
 
  
 
-The Case study contains 3 ipython notebooks and 3 csv files and follwing is the way they are used
+The repo contains 3 ipython notebooks and 3 csv files and follwing is the way they are used
 
 1. scraping .ipynb ipython notebook contains the code for scraping the reviews from the amazon website for 10 mobile phones. It uses the phone_list.csv for accessing the websites. 
 
